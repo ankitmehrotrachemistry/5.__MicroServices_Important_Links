@@ -14,3 +14,11 @@
 
 ## 5). Using Agones To Easily Create Scalable Game Servers
  [Using Agones To Easily Create Scalable Game Servers | Qwiklabs [GSP276] | Agones GCP | Agones Unity](https://www.youtube.com/watch?v=XQCHCCjfZCY)
+
+## 6). What is Agones?
+An open source, batteries-included, multiplayer dedicated game server scaling and orchestration platform that can run anywhere Kubernetes can run.
+
+[Agones](https://agones.dev/site/)
+
+[agones Github](https://github.com/googleforgames/agones)
+
