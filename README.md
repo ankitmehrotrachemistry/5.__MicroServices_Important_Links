@@ -6,10 +6,10 @@
 ## 2). Kubernetes Gateway API
  [Kubernetes Gateway API](https://www.solo.io/topics/kubernetes-api-gateway/)
 
-## 3). What are microservices?
+## 3). What are microservices?  
  [What are microservices?](https://www.solo.io/topics/microservices/)
 
-## 4). Agones + Quilkin: Kubernetes Game Server
+## 4). Agones + Quilkin: Kubernetes Game Server  
  [Agones + Quilkin: Kubernetes Game Server Orchestration and UDP Service Mesh - Mark Mandel](https://www.youtube.com/watch?v=RHOHkIYdrqw)
 
 ## 5). Using Agones To Easily Create Scalable Game Servers
