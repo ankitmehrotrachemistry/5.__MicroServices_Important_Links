@@ -22,3 +22,6 @@ An open source, batteries-included, multiplayer dedicated game server scaling an
 
 [agones Github](https://github.com/googleforgames/agones)
 
+**Microservices :**   
+1). Containerization and Orchestration  
+2). JFrog vs Jenkins  
