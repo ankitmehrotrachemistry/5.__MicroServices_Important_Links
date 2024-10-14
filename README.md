@@ -24,6 +24,14 @@ An open source, batteries-included, multiplayer dedicated game server scaling an
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+💥 𝐒𝐲𝐬𝐭𝐞𝐦 𝐀𝐏𝐈𝐬 𝐚𝐧𝐝 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬 in 𝐒𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐬𝐢𝐠𝐧
+
+✅ Microservices architecture allows 𝐛𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐝𝐨𝐰𝐧 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 into smaller, independent services.
+
+➡ In this topic you should learn about 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐀𝐏𝐈𝐬, 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐲, 𝐢𝐧𝐭𝐞𝐫-𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧, and 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬 to create robust and scalable microservices-based architectures.
+
+![image](https://github.com/user-attachments/assets/165ba861-da80-42b2-9b03-67a8dfab36a3)
+
 **Microservices :**   
 1). Containerization and Orchestration  
 2). JFrog vs Jenkins  
