@@ -32,6 +32,27 @@ An open source, batteries-included, multiplayer dedicated game server scaling an
 
 ![image](https://github.com/user-attachments/assets/165ba861-da80-42b2-9b03-67a8dfab36a3)
 
+💥 𝐌𝐞𝐬𝐬𝐚𝐠𝐞 𝐐𝐮𝐞𝐮𝐞𝐬 𝐚𝐧𝐝 𝐄𝐯𝐞𝐧𝐭-𝐝𝐫𝐢𝐯𝐞𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 in 𝐒𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐬𝐢𝐠𝐧
+
+✅ Message queues enable asynchronous communication between different components of a system. While preparing for this topic you should understand concepts like 𝐩𝐮𝐛-𝐬𝐮𝐛 (𝐩𝐮𝐛𝐥𝐢𝐬𝐡-𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞) 𝐩𝐚𝐭𝐭𝐞𝐫𝐧𝐬, 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐛𝐫𝐨𝐤𝐞𝐫𝐬, 𝐞𝐯𝐞𝐧𝐭-𝐝𝐫𝐢𝐯𝐞𝐧 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞, and their applications in building scalable and loosely coupled systems.
+
+➡ Here is an nice diagram showing Event Driven Architecture using 𝐩𝐮𝐛-𝐬𝐮𝐛 model and 𝐩𝐨𝐢𝐧𝐭-𝐭𝐨-𝐩𝐨𝐢𝐧𝐭 model.
+
+![image](https://github.com/user-attachments/assets/d10fd4cf-3233-4065-87d5-14c991456691)
+
+💥 𝐒𝐭𝐚𝐭𝐞𝐥𝐞𝐬𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 in 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
+
+✅ Designing microservices to be stateless simplifies scalability and resilience. 𝐄𝐚𝐜𝐡 𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐞𝐬 𝐚 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐢𝐧𝐝𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐭𝐥𝐲, without relying on stored state, making it easier to scale horizontally.
+
+![image](https://github.com/user-attachments/assets/4984fe3b-7634-485f-9a72-4aa83122650a)
+
+💥 𝐀𝐬𝐲𝐧𝐜 𝐌𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 in 𝐌𝐢𝐜𝐫𝐨𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
+
+✅ Instead of synchronous communication between microservices, the Async Messaging pattern involves using 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐪𝐮𝐞𝐮𝐞𝐬 to facilitate asynchronous communication. This can improve system responsiveness and scalability.
+
+![image](https://github.com/user-attachments/assets/cb81dda9-5b37-463c-8675-3b4dd891ae71)
+
+
 **Microservices :**   
 1). Containerization and Orchestration  
 2). JFrog vs Jenkins  
